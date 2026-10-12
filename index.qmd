@@ -1,6 +1,6 @@
 ---
 title: "Erin Emott"
-image: photos/bee_crop.jpg
+image: photos/LandscapeComparison.jpg
 toc: false
 about: 
   id: hero-heading 
