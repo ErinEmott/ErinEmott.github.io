@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ErinEmott",
+    "title": "Erin Emott",
     "section": "",
-    "text": "page content excluded for brevity ~\nSample text???\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nusethis::use_git() usethis::git_default_branch_rename(from = “master”, to = “main”) usethis::use_git_config(init.defaultBranch = “main”)\nusethis::create_github_token() gitcreds::gitcreds_set() 2\nusethis::git_sitrep()\nusethis::use_github() 4"
+    "text": "Hi! I’m Erin"
   },
   {
     "objectID": "about.html",
