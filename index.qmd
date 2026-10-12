@@ -1,11 +1,36 @@
 ---
-title: "ErinEmott.github.io"
+title: "ErinEmott"
+image: photos/headshot_website.jpeg
+toc: false
+about: 
+  template: broadside
+  image-shape: rounded
+  image-width: 17em
+  links:
+    - text: Email
+      href: mailto:etemott@ncsu.edu
+    - text: GitHub
+      href: https://github.com/samanthacsik
+      target: _blank 
 ---
+        
+# page content excluded for brevity ~
+Sample text??? 
+
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+usethis::use_git()
+usethis::git_default_branch_rename(from = "master", to = "main")
+usethis::use_git_config(init.defaultBranch = "main")
+
+usethis::create_github_token()
+gitcreds::gitcreds_set()
+2
+
+usethis::git_sitrep()
+
+usethis::use_github()
+4
