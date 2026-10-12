@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "ErinEmott.github.io"
+  title: "EEmott"
   navbar:
     left:
       - href: index.qmd
@@ -15,6 +15,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-  
+    page-layout: full
 
 
