@@ -13,5 +13,5 @@ about:
       href: https://github.com/ErinEmott
       target: _blank 
 ---
-test
+test in terminal
 
