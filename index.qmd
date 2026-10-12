@@ -3,8 +3,8 @@ title: "Erin Emott"
 image: photos/headshot_website.jpg
 toc: false
 about: 
-  template: broadside
-  image-shape: rounded
+  template: trestles
+  image-shape: round
   image-width: 17em
   links:
     - text: Email
@@ -13,5 +13,7 @@ about:
       href: https://github.com/ErinEmott
       target: _blank 
 ---
-can we get a photo
+Erin Emott (she/her) is a 4th year PhD candidate at North Carolina State University working in Bill Hoffmann's lab. Her research focuses on population-, community-, and ecosystem-level responses to variation in stand density and composition in longleaf pine ecosystems. 
+
+I'm also a studio pottery and ceramics teacher, the Treasurer of the Plant Biology graduate student association, and a Grad Peer Mentor through the College of Agriculture and Life Sciences. 
 
