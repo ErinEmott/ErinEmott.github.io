@@ -1,6 +1,6 @@
 ---
 title: "Erin Emott"
-image: photos\headshot_website.jpeg
+image: photos/headshot_website.jpg
 toc: false
 about: 
   template: broadside
@@ -13,5 +13,5 @@ about:
       href: https://github.com/ErinEmott
       target: _blank 
 ---
-test in terminal
+can we get a photo
 
