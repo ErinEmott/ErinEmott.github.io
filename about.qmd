@@ -1,14 +1,20 @@
 ---
-title: "How do fire and light availability feed back onto longleaf pine growth and survival, understory community composition, and fuel bed flammability?"
-image: photos/LandscapeComparison.jpg
+title: "Erin Emott"
+image: photos/LLP_portrait.jpg
 toc: false
 about: 
-  template: jolla
-  image-width: 60em
-  image-shape: rounded
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: Email
+      href: mailto:etemott@ncsu.edu
+    - text: GitHub
+      href: https://github.com/ErinEmott
+      icon: github
+      target: _blank 
 ---
+I'm a 4th year PhD candidate at North Carolina State University, working with Bill Hoffmann. My research focuses on population-, community-, and ecosystem-level responses to variation in stand density and canopy composition in longleaf pine ecosystems. 
 
+I'm also a studio potter and ceramics teacher, the Treasurer of the Plant Biology graduate student association, and a Grad Peer Mentor through the College of Agriculture and Life Sciences. 
 
-I'm in my fourth year at NC State University.
-
-My research focuses on fire ecology and plant community ecology in longleaf pine ecosystems.
