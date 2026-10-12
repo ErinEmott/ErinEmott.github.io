@@ -1,5 +1,6 @@
 ---
 title: "Erin Emott"
+pagetitle: "About"
 image: photos/LLP_portrait.jpg
 toc: false
 about: 
