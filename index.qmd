@@ -1,6 +1,6 @@
 ---
 title: "Erin Emott"
-image: photos/headshot_website.jpeg
+image: photos\headshot_website.jpeg
 toc: false
 about: 
   template: broadside
