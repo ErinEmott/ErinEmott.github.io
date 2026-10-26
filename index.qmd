@@ -8,3 +8,73 @@ about:
   image-width: 100%
   image-shape: rounded
 ---
+
+```{=html}
+<div class="chapter-cards">
+  <a class="chapter-card" href="#chapter-1" style="background-image: url('photos/chapter1.jpg');">
+    <span class="card-label">Chapter 1<br>Longleaf growth and survival</span>
+  </a>
+  <a class="chapter-card" href="#chapter-2" style="background-image: url('photos/chapter2.jpg');">
+    <span class="card-label">Chapter 2<br>Flammability and fire behavior</span>
+  </a>
+  <a class="chapter-card" href="#chapter-3" style="background-image: url('photos/chapter3.jpg');">
+    <span class="card-label">Chapter 3<br>Understory community diversity</span>
+  </a>
+</div>
+```
+
+
+::::: {#chapter-1 .chapter}
+## Chapter 1: Do light and fire synergistically control stand density?
+
+:::: {.columns}
+::: {.column width="40%"}
+![](photos/chapter1.jpg){fig-alt="Researcher is kneeling and measuring the height of a bolting longleaf pine tree"}
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="55%"}
+This chapter of my dissertation is on-going, involving a multi-year observational study set up in the Sandhills of North Carolina. This work aims to determine:
+
+- How does light availability relate to growth of bolting longleaf pines?
+- How does size relate to survival?
+
+:::
+::::
+:::::
+
+::::: {#chapter-2 .chapter}
+## Chapter 2: How does pyrophytic oak density relate to fuel load and fuel bed composition, and therefore flammability?
+
+:::: {.columns}
+::: {.column width="40%"}
+![](photos/chapter2.jpg){fig-alt="Longleaf pine savanna at golden hour, with the understory of grasses and forbs glowing golden in the setting sun"}
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="55%"}
+I have just started working on this chapter of my dissertation. This work aims to determine:
+
+- How does pyrophytic oak density relate to the fuel load and the relative abundance of fuel types in the understory?
+- How does the fuel load and relative abundance of fuel types shape fuel bed flammability and fire behavior?
+:::
+::::
+:::::
+
+::::: {#chapter-3 .chapter}
+## Chapter 3: How do pyrophytic oaks impact understory community diversity?
+
+:::: {.columns}
+::: {.column width="40%"}
+![](photos/chapter3.jpg){fig-alt="Longleaf pine landscape with a considerable number of hardwoods in the understory"}
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="55%"}
+Specific questions:
+
+- [Question 1]
+- [Question 2]
+:::
+::::
+:::::
