@@ -1,5 +1,5 @@
 ---
-title: "My research focuses on how canopy cover and composition feed back onto:"
+title: "My research focuses on how canopy cover and composition influence"
 pagetitle: "Erin Emott"
 image: photos/LandscapeComparison.jpg
 toc: false
@@ -44,7 +44,7 @@ This chapter of my dissertation is on-going, with a four-year field study that a
 :::::
 
 ::::: {#chapter-2 .chapter}
-## How do pyrophytic oaks impact the fuel load and fuel bed composition, and therefore flammability?
+## How do pyrophytic oaks impact fuel bed flammability?
 
 :::: {.columns}
 ::: {.column width="40%"}
@@ -62,7 +62,7 @@ The field work for this chapter of my dissertation will begin very soon! I will 
 :::::
 
 ::::: {#chapter-3 .chapter}
-## How do pyrophytic oaks impact understory community diversity?
+## How do pyrophytic oaks impact the understory plant community?
 
 :::: {.columns}
 ::: {.column width="40%"}
