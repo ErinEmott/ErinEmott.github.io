@@ -1,23 +1,20 @@
 ---
 title: "Erin Emott"
-pagetitle: "About"
+pagetitle: "About Me"
 image: photos/LLP_portrait.jpg
 toc: false
 about: 
   template: trestles
   image-shape: round
   image-width: 25em
-  links:
-    - text: Email
-      href: mailto:etemott@ncsu.edu
-    - text: GitHub
-      href: https://github.com/ErinEmott
-      icon: github
-      target: _blank 
+
 ---
 I am a 4th year PhD candidate working with [Bill Hoffmann](https://cals.ncsu.edu/plant-and-microbial-biology/people/wahoffma/){target="_blank"} at North Carolina State University. My [research](index.qmd){target="_blank"} focuses on population-, community-, and ecosystem-level responses to variation in stand density and canopy composition in longleaf pine ecosystems. 
 
 In addition to my research, I am  
+
 - Treasurer of the Plant Biology Graduate Student Association
 - a [Grad Peer Mentor](https://peermentors.cals.ncsu.edu/){target="_blank"} through the College of Agriculture and Life Sciences
 - a studio potter and ceramics teacher at the NC State Craft Center
+
+Feel free to reach out via [email me](mailto:etemott@ncsu.edu) if you'd like to chat!
