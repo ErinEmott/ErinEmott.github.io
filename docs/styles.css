@@ -1,1 +1,60 @@
 /* css styles */
+
+html {
+  scroll-behavior: smooth;
+}
+
+.chapter-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin: 2.5rem 0;
+}
+
+.chapter-card {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  aspect-ratio: 3 / 4;
+  background-size: cover;
+  background-position: center;
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.chapter-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0,0,0,0.75), rgba(0,0,0,0) 60%);
+}
+
+.chapter-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+
+.card-label {
+  position: relative;
+  padding: 1rem;
+  color: #ffffff;
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.chapter {
+  scroll-margin-top: 80px;
+  margin-bottom: 3rem;
+}
+
+@media (max-width: 700px) {
+  .chapter-cards {
+    grid-template-columns: 1fr;
+  }
+  .chapter-card {
+    aspect-ratio: 2 / 3;
+  }
+}
