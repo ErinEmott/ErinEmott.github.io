@@ -1,5 +1,5 @@
 ---
-title: "How does canopy cover and composition feed back onto"
+title: "My research focuses on how canopy cover and composition feed back onto:"
 pagetitle: "Erin Emott"
 image: photos/LandscapeComparison.jpg
 toc: false
@@ -34,17 +34,17 @@ about:
 ::: {.column width="5%"}
 :::
 ::: {.column width="55%"}
-This chapter of my dissertation is on-going, involving a multi-year observational study set up in the Sandhills of North Carolina. This work aims to determine:
+This chapter of my dissertation is on-going, with a four-year field study that aims to determine:
 
-- How light availability relates to growth of bolting longleaf pines?
-- How size relates to survival of bolting longleaf pines?
+- How light availability relates to growth of bolting longleaf pines
+- How size relates to survival of bolting longleaf pines
 
 :::
 ::::
 :::::
 
 ::::: {#chapter-2 .chapter}
-## Chapter 2: How does pyrophytic oak density relate to fuel load and fuel bed composition, and therefore flammability?
+## Chapter 2: How do pyrophytic oaks impact the fuel load and fuel bed composition, and therefore flammability?
 
 :::: {.columns}
 ::: {.column width="40%"}
@@ -53,10 +53,10 @@ This chapter of my dissertation is on-going, involving a multi-year observationa
 ::: {.column width="5%"}
 :::
 ::: {.column width="55%"}
-I have just started working on this chapter of my dissertation. This work aims to determine:
+The field work for this chapter of my dissertation will begin very soon! I will be taking field measurements and conducting experimental burns to quantify:
 
-- How pyrophytic oak density relates to the fuel load and the relative abundance of fuel types in the understory?
-- How the fuel load and relative abundance of fuel types shape fuel bed flammability and fire behavior?
+- How pyrophytic oak density relates to the fuel load and the relative abundance of fuel types in the understory
+- How the fuel load and relative abundance of fuel types shape fuel bed flammability and fire behavior
 :::
 ::::
 :::::
@@ -73,8 +73,8 @@ I have just started working on this chapter of my dissertation. This work aims t
 ::: {.column width="55%"}
 I'm currently analyzing Carolina Vegetation Survey data, and hope to conduct a follow-up field study in Summer 2027, to investigate:
 
-- How pyrophytic oaks in the canopy influence community composition?
-- How pyrophytic oaks in stunted, fire-shrub growth forms influence community composition?
+- How pyrophytic oaks in the canopy influence community composition
+- How pyrophytic oaks in stunted, fire-shrub growth forms influence community composition
 :::
 ::::
 :::::
