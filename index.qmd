@@ -1,5 +1,5 @@
 ---
-title: "How do canopy cover and composition feed back onto longleaf pine growth and survival, understory community composition, and fuel bed flammability?"
+title: "How does canopy cover and composition feed back onto"
 pagetitle: "Erin Emott"
 image: photos/LandscapeComparison.jpg
 toc: false

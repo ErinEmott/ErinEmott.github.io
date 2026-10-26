@@ -29,7 +29,7 @@ html {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.35);
+  background: rgba(0, 0, 0, 0.25);
 }
 
 .chapter-card:hover {
@@ -59,4 +59,19 @@ html {
   .chapter-card {
     aspect-ratio: 3 / 4;
   }
+}
+
+.chapter h2 {
+  text-align: center !important;
+}
+
+.chapter .column {
+  text-align: left !important;
+}
+
+.chapter img {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: 12px;
 }
