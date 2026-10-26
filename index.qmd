@@ -25,7 +25,7 @@ about:
 
 
 ::::: {#chapter-1 .chapter}
-## Chapter 1: Do light and fire synergistically control stand density?
+## Do light and fire synergistically control stand density?
 
 :::: {.columns}
 ::: {.column width="40%"}
@@ -44,7 +44,7 @@ This chapter of my dissertation is on-going, with a four-year field study that a
 :::::
 
 ::::: {#chapter-2 .chapter}
-## Chapter 2: How do pyrophytic oaks impact the fuel load and fuel bed composition, and therefore flammability?
+## How do pyrophytic oaks impact the fuel load and fuel bed composition, and therefore flammability?
 
 :::: {.columns}
 ::: {.column width="40%"}
@@ -55,14 +55,14 @@ This chapter of my dissertation is on-going, with a four-year field study that a
 ::: {.column width="55%"}
 The field work for this chapter of my dissertation will begin very soon! I will be taking field measurements and conducting experimental burns to quantify:
 
-- How pyrophytic oak density relates to the fuel load and the relative abundance of fuel types in the understory
-- How the fuel load and relative abundance of fuel types shape fuel bed flammability and fire behavior
+- How pyrophytic oak density relates to the fuel load and the relative abundance of different fuel types in the understory
+- How the fuel load and relative abundance of different fuels shape fuel bed flammability and fire behavior
 :::
 ::::
 :::::
 
 ::::: {#chapter-3 .chapter}
-## Chapter 3: How do pyrophytic oaks impact understory community diversity?
+## How do pyrophytic oaks impact understory community diversity?
 
 :::: {.columns}
 ::: {.column width="40%"}
@@ -73,8 +73,8 @@ The field work for this chapter of my dissertation will begin very soon! I will 
 ::: {.column width="55%"}
 I'm currently analyzing Carolina Vegetation Survey data, and hope to conduct a follow-up field study in Summer 2027, to investigate:
 
-- How pyrophytic oaks in the canopy influence community composition
-- How pyrophytic oaks in stunted, fire-shrub growth forms influence community composition
+- How pyrophytic oaks in the canopy influence community composition in the understory
+- How pyrophytic oaks in stunted, fire-shrub growth forms might influence community composition differently 
 :::
 ::::
 :::::
