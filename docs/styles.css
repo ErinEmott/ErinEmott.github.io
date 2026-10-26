@@ -8,7 +8,7 @@ html {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
-  margin: 2.5rem 0;
+  margin: 0.5rem 0 2.5rem;
 }
 
 .chapter-card {
@@ -29,7 +29,7 @@ html {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.25);
+  background: rgba(0, 0, 0, 0.30);
 }
 
 .chapter-card:hover {

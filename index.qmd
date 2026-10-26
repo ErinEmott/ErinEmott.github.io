@@ -29,15 +29,15 @@ about:
 
 :::: {.columns}
 ::: {.column width="40%"}
-![](photos/chapter1.jpg){fig-alt="Researcher is kneeling and measuring the height of a bolting longleaf pine tree"}
+![](photos/chapter1.jpg){fig-alt="Researcher is kneeling and measuring the stem diameter of a bolting longleaf pine tree"}
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="55%"}
 This chapter of my dissertation is on-going, involving a multi-year observational study set up in the Sandhills of North Carolina. This work aims to determine:
 
-- How does light availability relate to growth of bolting longleaf pines?
-- How does size relate to survival?
+- How light availability relates to growth of bolting longleaf pines?
+- How size relates to survival of bolting longleaf pines?
 
 :::
 ::::
@@ -55,8 +55,8 @@ This chapter of my dissertation is on-going, involving a multi-year observationa
 ::: {.column width="55%"}
 I have just started working on this chapter of my dissertation. This work aims to determine:
 
-- How does pyrophytic oak density relate to the fuel load and the relative abundance of fuel types in the understory?
-- How does the fuel load and relative abundance of fuel types shape fuel bed flammability and fire behavior?
+- How pyrophytic oak density relates to the fuel load and the relative abundance of fuel types in the understory?
+- How the fuel load and relative abundance of fuel types shape fuel bed flammability and fire behavior?
 :::
 ::::
 :::::
@@ -71,10 +71,10 @@ I have just started working on this chapter of my dissertation. This work aims t
 ::: {.column width="5%"}
 :::
 ::: {.column width="55%"}
-Specific questions:
+I'm currently analyzing Carolina Vegetation Survey data, and hope to conduct a follow-up field study in Summer 2027, to investigate:
 
-- [Question 1]
-- [Question 2]
+- How pyrophytic oaks in the canopy influence community composition?
+- How pyrophytic oaks in stunted, fire-shrub growth forms influence community composition?
 :::
 ::::
 :::::
